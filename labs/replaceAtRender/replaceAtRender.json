@@ -18,11 +18,20 @@
       {
         "type": "leaseInfo",
         "fields": {
-          "host": "{{Finesse_FQDN}}",
-          "UserA_username": "{{UserA_username}}",
-          "UserA_password": "{{UserA_password}}",
-          "UserA_extension": "{{UserA_extension}}"
+          "host": "{{my-vm-host}}",
+          "uname": "{{my-vm-username}}",
+          "pwd": "{{my-vm-password}}",
+          "ext": "{{my-vm-extension}}"
         }
+      },
+      {
+        "type": "general",
+        "fields": [
+        	{"find": "dummy", "replace": "placeholder"}, <-- Simple global find and replace; case sensitive.
+        	{"find": "Lorem Ipsum", "replace": "Cisco Lorem Ipsum"},
+        	{"find": "/cisco/gi", "replace": "Cisco", "regex": true}, <-- Performan global/case insensitive and replace.
+        	{"find": "/(\d{3})(\d{3})(\d{4})/gi", "replace": "$1-$2-$3", "regex": true} <-- Reformat a telephone number
+        ]
       }
     ]
   },
