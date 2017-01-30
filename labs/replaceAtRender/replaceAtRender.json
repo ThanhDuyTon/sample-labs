@@ -1,0 +1,30 @@
+{
+  "labId": "replace-at-render",
+  "title": "How To's: Replace At render",
+  "slug": "Replacing lab content at render time.",
+  "time": 1,
+  "byod": false,
+  "files": [
+    {"title": "1.md"}
+  ],
+  "tags": [
+    {"title": "Sample"}
+  ],
+  "authors": [
+  	{"name": "Thanh Ton", "email": "thaton@cisco.com"}
+  ],
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo",
+        "fields": {
+          "host": "{{Finesse_FQDN}}",
+          "UserA_username": "{{UserA_username}}",
+          "UserA_password": "{{UserA_password}}",
+          "UserA_extension": "{{UserA_extension}}"
+        }
+      }
+    ]
+  },
+  "active": true
+}
