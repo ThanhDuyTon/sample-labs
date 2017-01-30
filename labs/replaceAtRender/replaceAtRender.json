@@ -1,5 +1,5 @@
 {
-  "labId": "replace-at-render",
+  "labId": "replaceAtRender",
   "title": "How To's: Replace At render",
   "slug": "Replacing lab content at render time.",
   "time": 1,
