@@ -31,7 +31,7 @@
         	{"find": "Lorem Ipsum", "replace": "Cisco Lorem Ipsum"},
         	{"find": "/cisco/gi", "replace": "Cisco", "regex": true},
         	{"find": "/(\\d{3})(\\d{3})(\\d{4})/gi", "replace": "$1-$2-$3", "regex": true},
-        	{"find": "{{my-code-pen}}", "replace": '<p data-height="265" data-theme-id="0" data-slug-hash="tfjFl" data-default-tab="html,result" data-user="oknoblich" data-embed-version="2" data-pen-title="Responsive CSS Tabs" class="codepen">See the Pen <a href="https://codepen.io/oknoblich/pen/tfjFl/">Responsive CSS Tabs</a> by Oliver Knoblich (<a href="https://codepen.io/oknoblich">@oknoblich</a>) on <a href="https://codepen.io">CodePen</a>.</p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>'}
+        	{"find": "{{my-code-pen}}", "replace": "<p data-height=\"265\" data-theme-id=\"0\" data-slug-hash=\"tfjFl\" data-default-tab=\"html,result\" data-user=\"oknoblich\" data-embed-version=\"2\" data-pen-title=\"Responsive CSS Tabs\" class=\"codepen\">See the Pen <a href=\"https://codepen.io/oknoblich/pen/tfjFl/\">Responsive CSS Tabs</a> by Oliver Knoblich (<a href=\"https://codepen.io/oknoblich\">@oknoblich</a>) on <a href=\"https://codepen.io\">CodePen</a>.</p><script async src=\"https://production-assets.codepen.io/assets/embed/ei.js\"></script>"}
         ]
       }
     ]
