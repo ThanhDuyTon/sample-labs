@@ -5,8 +5,7 @@
   "time": 1,
   "byod": false,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"}
+    {"title": "1.md"}
   ],
   "tags": [
     {"title": "Sample"}
