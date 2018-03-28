@@ -1,0 +1,18 @@
+{
+  "labId": "relative-path",
+  "title": "How To's: Add images",
+  "slug": "Testing images",
+  "time": 1,
+  "byod": false,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"}
+  ],
+  "tags": [
+    {"title": "Sample"}
+  ],
+  "authors": [
+  	{"name": "Thanh Ton", "email": "thaton@cisco.com"}
+  ],
+  "active": true
+}
