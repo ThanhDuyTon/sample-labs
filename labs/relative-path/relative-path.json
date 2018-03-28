@@ -3,7 +3,7 @@
   "title": "How To's: Add images",
   "slug": "Testing images",
   "time": 1,
-  "byod": false,
+  "byod": true,
   "files": [
     {"title": "1.md"}
   ],
