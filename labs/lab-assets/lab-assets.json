@@ -5,8 +5,8 @@
   "time": 1,
   "byod": false,
   "files": [
-    {title: "Introduction", "file": "1.md"},
-    {title: "Conclusion", "file": "2.md"}
+    {"title": "Introduction", "file": "1.md"},
+    {"title": "Conclusion", "file": "2.md"}
   ],
   "tags": [
     {"title": "Sample"}
