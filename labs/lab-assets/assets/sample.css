@@ -1,0 +1,11 @@
+/*
+ * Inherit Style
+ */
+
+.lab-assets-lab {
+  /* Something styles */
+}
+
+.lab-assets-lab p {
+  text-transform: uppercase;
+}
