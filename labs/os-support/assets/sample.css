@@ -2,29 +2,23 @@
  * os-windows, os-mac and os-linux provided by LL
  */
 
-.os-windows {
-  .mac {
-    display: none
-  }
-  .linux {
-    display: none
-  }
+.os-windows .mac {
+  display: none
+}
+.os-windows .linux {
+  display: none
 }
 
-.os-mac {
-  .windows {
-    display: none
-  }
-  .linux {
-    display: none
-  }
+.os-mac .windows {
+  display: none
+}
+.os-mac .linux {
+  display: none
 }
 
-.os-linux {
-  .mac {
-    display: none
-  }
-  .windows {
-    display: none
-  }
+.os-linux .mac {
+  display: none
+}
+.os-linux .windows {
+  display: none
 }
