@@ -1,0 +1,18 @@
+{
+  "labId": "codes",
+  "title": "How To's: Markdown Codes",
+  "slug": "Supported Markdown code synctax",
+  "time": 1,
+  "byod": false,
+  "files": [
+    {"title": "1.md"}
+  ],
+  "tags": [
+    {"title": "Sample"},
+    {"title": "Typography"}
+  ],
+  "authors": [
+  	{"name": "Thanh Ton", "email": "thaton@cisco.com"}
+  ],
+  "active": true
+}
