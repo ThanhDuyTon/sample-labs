@@ -14,5 +14,6 @@
   "authors": [
   	{"name": "Thanh Ton", "email": "thaton@cisco.com"}
   ],
+  redirectTo: 'git-basic-workflows',
   "active": true
 }
