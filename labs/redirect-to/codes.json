@@ -1,0 +1,18 @@
+{
+  "labId": "redirect-to",
+  "title": "How To: Redirect-To,
+  "slug": "This lad should redirect to",
+  "time": 1,
+  "byod": false,
+  "files": [
+    {"title": "1.md"}
+  ],
+  "tags": [
+    {"title": "Redirect"},
+    {"title": "Sample"}
+  ],
+  "authors": [
+  	{"name": "Thanh Ton", "email": "thaton@cisco.com"}
+  ],
+  "active": true
+}
